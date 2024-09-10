@@ -5,6 +5,7 @@ public class mainApp1 {
     public static void main(String[] args) {
         int b = 2;
         int n = 11;
+        // testing LA1 assignment
         System.out.println("Program ..Starting...");
         System.out.println("1 + 1 = "  + 2);
         System.out.println(n+"! = " + myLibrary.factorial(n));
